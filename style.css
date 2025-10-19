@@ -1,0 +1,15 @@
+.tab button:hover {
+    background-color: cornflowerblue;
+}
+
+.tab button.active {
+    background-color: cornflowerblue;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid  color(srgb red green blue);
+    border-top: none;
+
+}
